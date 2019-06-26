@@ -1,0 +1,49 @@
+problem defination
+
+problem to handel large data
+
+problem to handel transaction
+
+problem to handel in secure way
+
+
+functional requirements 
+
+1. Login
+2.Select the product you want to buy
+3.Add the product to cart
+4.Make Payment.
+5.Logout
+
+
+functional requirements
+ 
+scalability
+security
+readability
+maintanablity
+
+Problem statement 
+
+contos company wants to acsses customer information relataed to account into all thier offices.so all employe of that compony can accsse it easly and securily.
+
+
+
+
+ 
+FOR upload file on git hub
+
+
+git init
+
+
+git add folderPATH
+
+
+git commit -m "first commit"
+git remote add origin pathGithubRep
+git push -u origin master
+
+https://github.com/Ajay-padole99/project.git
+
+For Run 
