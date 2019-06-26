@@ -15,7 +15,7 @@ res.send(Customer)
 
 };
 
-app.get('/Customer',CustomerControl);
+app.get('/Customer', CustomerControl);
 
 var server = app.listen(8087, function () {
   console.log("Example app listening at http://localhost:8087")
